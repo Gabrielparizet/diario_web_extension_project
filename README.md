@@ -1,3 +1,7 @@
+<h1>Diario 🚀</h1>
+
+<h2>Description</h2>
+
 <ul>
   <li>
     <strong><ins>About:</ins></strong> Diario is a Chrome Web Extension project developed in a group of three using Chrome Extension Manifest V3.
@@ -31,3 +35,7 @@
     <strong><ins>Teamwork and cooperation:</ins></strong> We fully cooperated dividing our tasks using <strong>Trello</strong>, working from a MVP to a fully functional V2. Versioning was done using <strong>Git and Github</strong>.
   </li>
 </ul>
+
+<h2>Screenshots</h2>
+
+<img width="858" alt="Screenshot 2023-03-28 at 12 03 56" src="https://user-images.githubusercontent.com/114992640/228202743-1db89b7b-d156-4167-b8fe-58750423e646.png">
